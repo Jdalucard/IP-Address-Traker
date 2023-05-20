@@ -71,7 +71,7 @@ button :hover {
   border-radius: 0.5rem;
   padding: 1rem;
   background-color: aliceblue;
-  gap: 1rem;
+  gap: 1.1rem;
 }
 
 .containerApi > :nth-child(1) {
