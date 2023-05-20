@@ -1,0 +1,9 @@
+.imageBack img {
+  min-width: 100vw;
+}
+
+.MapContainer {
+  min-height: 600px;
+  min-width: 100vw;
+  z-index: 1;
+}
